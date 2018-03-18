@@ -1,0 +1,6 @@
+﻿  GA.cpp
+d:\农田\ga\ga.cpp(64): warning C4244: “初始化”: 从“std::chrono::system_clock::rep”转换到“unsigned int”，可能丢失数据
+d:\农田\ga\ga.cpp(74): warning C4244: “初始化”: 从“std::chrono::system_clock::rep”转换到“unsigned int”，可能丢失数据
+d:\农田\ga\ga.cpp(86): warning C4244: “初始化”: 从“std::chrono::system_clock::rep”转换到“unsigned int”，可能丢失数据
+d:\农田\ga\ga.cpp(425): warning C4244: “初始化”: 从“std::chrono::system_clock::rep”转换到“unsigned int”，可能丢失数据
+  GA.vcxproj -> D:\农田\GA\Debug\GA.exe
